@@ -1,0 +1,23 @@
+{
+  "name": "andrewzaw",
+  "version": "1.0.3",
+  "description": "Personal methods for Andrew Zaw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewZaw/AndrewZaw-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewZaw/AndrewZaw-npm/issues"
+  },
+  "homepage": "https://github.com/AndrewZaw/AndrewZaw-npm#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^5.9.9"
+  }
+}
