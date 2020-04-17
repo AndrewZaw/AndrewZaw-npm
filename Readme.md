@@ -37,7 +37,7 @@ try {
 Example with to():
 
 ```javascript
-const [databaseError, data] = await accessDatabase();
+const [databaseError, data] = await to(accessDatabase());
 if (databaseError) {
   // error handling
 }
